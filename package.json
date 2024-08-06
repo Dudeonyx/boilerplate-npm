@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Onyekachukwu Umeayo",
+	"description": "An example project",
+	"keywords": ["Test", "npm", "freecodecamp"],
+	"license":"MIT",
+	"version": "0.1-alpha",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
